@@ -6,12 +6,12 @@
 
 
 ## Day 1：
--Python 基础（print）
+- Python 基础（print）
 
  ## Day 2:
-  -if/else
-  -年龄判断
-  -登入验证
+  - if/else
+  - 年龄判断
+  - 登入验证
   
  ## Day 3:
   - for + if
