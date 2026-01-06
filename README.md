@@ -9,7 +9,7 @@
 - Python 基础（print）
 
  ## Day 2:
-  - if/else
+  - if / else
   - 年龄判断
   - 登入验证
   
